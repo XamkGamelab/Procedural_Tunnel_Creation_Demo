@@ -1,0 +1,5 @@
+This package is licensed under the Unity Companion License. 
+For full license terms, please see: https://unity3d.com/legal/licenses/Unity_Companion_License
+
+Since this FPS controller is used in this above apllies otherways MIT license
+Assets are from cc0 from opengameArt
